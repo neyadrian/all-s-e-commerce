@@ -65,7 +65,7 @@
     height: 58px;
     outline: none;
     border: none;
-    background: #ff5a5a;
+    background: linear-gradient(to right, #47005c, #ad00ab);
     color: #fff;
     font-size: 16px;
     font-weight: 600;

@@ -38,7 +38,7 @@
     width: 580px;
     height: 72px;
     color: white;
-    background: #ff4141;
+    background: linear-gradient(to right, #47005c, #ad00ab);
     margin-top: 30px;
     border: none;
     font-size: 24px;
@@ -54,7 +54,7 @@
 }
 
 .loginsignup-login span{
-    color: #ff4141;
+    color: #ad00ab;
     font-weight: 600;
 }
 

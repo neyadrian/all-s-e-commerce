@@ -12,10 +12,8 @@
     gap: 20px;
 }
 
-.footer-logo p{
-    color: #383838;
-    font-size: 46px;
-    font-weight: 700;
+.footer-logo img{
+    width: 180px;
 }
 
 .footer-links{
@@ -70,7 +68,7 @@
         align-items: end;
     }
     .footer-logo img{
-        width: 40px;
+        width: 100px;
     }
     .footer-logo p{
         font-size: 25px;
